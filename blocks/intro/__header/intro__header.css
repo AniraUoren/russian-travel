@@ -1,0 +1,8 @@
+.intro__header {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 40px;
+  font-size: 54px;
+  font-weight: var(--font-weight-bold);
+  line-height: 58px;
+}
