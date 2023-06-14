@@ -1,6 +1,6 @@
 :root {
   /*Fonts*/
-  --font-name: 'Inter';
+  --font-family: 'Inter', 'Arial', sans-serif;
   --font-weight-normal: 400;
   --font-weight-bold: 900;
 
