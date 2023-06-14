@@ -1,4 +1,8 @@
 .lang__el {
+  padding: 0;
+  margin: 0;
+  margin-left: 18px;
+  margin-top: 10px;
   display: block;
   border: none;
   background-color: inherit;

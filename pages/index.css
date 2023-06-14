@@ -15,5 +15,13 @@
 @import "../blocks/lang/__el/lang__el.css";
 @import "../blocks/lang/__el/_active/lang__el_active.css";
 
+@import "../blocks/lead/lead.css";
+@import "../blocks/lead/__header/lead__header.css";
+@import "../blocks/lead/__subheader/lead__subheader.css";
+@import "../blocks/lead/__image/lead__image.css";
+@import "../blocks/lead/__image-description/lead__image-description.css";
+
+/*@import "../blocks";*/
+/*@import "../blocks";*/
 /*@import "../blocks";*/
 /*@import "../blocks";*/

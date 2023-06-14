@@ -1,0 +1,10 @@
+.lead__subheader {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 64px;
+  max-width: 620px;
+  font-size: 30px;
+  font-weight: var(--font-weight-normal);
+  line-height: 36px;
+  text-align: center;
+}
