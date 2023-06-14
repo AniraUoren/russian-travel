@@ -31,7 +31,8 @@
 @import "../blocks/intro/__statistics/intro__statistics.css";
 @import "../blocks/intro/__statistics-metric/intro__statistics-metric.css";
 
+@import "../blocks/photo-gallery/photo-gallery.css";
+@import "../blocks/photo-gallery/__image/photo-gallery__image.css";
 
-/*@import "../blocks";*/
 /*@import "../blocks";*/
 /*@import "../blocks";*/
