@@ -1,0 +1,18 @@
+:root {
+  /*Fonts*/
+  --font-name: 'Inter';
+  --font-weight-normal: 400;
+  --font-weight-bold: 900;
+
+  /*Colors*/
+  --text-main-white: #FFFFFF;
+  --text-url-grey: #AAAAAA;
+
+  --bg-dark-grey: #2A2C2F;
+  --bg-overlay: #2A2C2F;
+
+  /*Margins*/
+  --margin-bottom-small: 56px;
+  --margin-bottom-normal: 80px;
+  --margin-bottom-large: 92px;
+}
