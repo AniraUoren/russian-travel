@@ -3,5 +3,17 @@
 @import "../vendor/fonts.css";
 
 @import "../blocks/page/page.css";
+@import "../blocks/page/__header/page__header.css";
 
+@import "../blocks/header/header.css";
+@import "../blocks/header/__el/header__el.css";
+
+@import "../blocks/logo/logo.css";
+@import "../blocks/logo/__image/logo__image.css";
+
+@import "../blocks/lang/lang.css";
+@import "../blocks/lang/__el/lang__el.css";
+@import "../blocks/lang/__el/_active/lang__el_active.css";
+
+/*@import "../blocks";*/
 /*@import "../blocks";*/

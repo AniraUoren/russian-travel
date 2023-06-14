@@ -1,0 +1,14 @@
+.lang__el {
+  display: block;
+  border: none;
+  background-color: inherit;
+  color: var(--text-main-white);
+  font-size: 24px;
+  font-weight: var(--font-weight-normal);
+  line-height: 28px;
+}
+
+.lang__el:hover {
+  cursor: pointer;
+  opacity: .5;
+}
