@@ -48,4 +48,12 @@
 @import "../blocks/outro/__header/outro__header.css";
 @import "../blocks/outro/__subheader/outro__subheader.css";
 
-/*@import "../blocks";*/
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__el/footer__el.css";
+
+@import "../blocks/navigation/navigation.css";
+@import "../blocks/navigation/__list/navigation__list.css";
+@import "../blocks/navigation/__el/navigation__el.css";
+@import "../blocks/navigation/__link/navigation__link.css";
+
+@import "../blocks/author/author.css";
