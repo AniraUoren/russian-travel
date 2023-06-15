@@ -1,0 +1,12 @@
+.outro {
+  padding: 0;
+  max-width: 1184px;
+  min-height: 740px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(var(--bg-overlay), var(--bg-overlay)),
+              url("../../images/na-sobanyah__background.jpg") center/cover;
+}

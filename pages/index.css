@@ -44,5 +44,8 @@
 @import "../blocks/place/__link/place__link.css";
 @import "../blocks/place/__description/place__description.css";
 
-/*@import "../blocks";*/
+@import "../blocks/outro/outro.css";
+@import "../blocks/outro/__header/outro__header.css";
+@import "../blocks/outro/__subheader/outro__subheader.css";
+
 /*@import "../blocks";*/

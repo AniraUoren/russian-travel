@@ -1,0 +1,9 @@
+.outro__subheader {
+  padding: 0;
+  margin: 0;
+  max-width: 360px;
+  font-size: 18px;
+  font-weight: var(--font-weight-normal);
+  line-height: 22px;
+  text-align: center;
+}
