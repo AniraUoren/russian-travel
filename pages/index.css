@@ -4,6 +4,8 @@
 
 @import "../blocks/page/page.css";
 @import "../blocks/page/__header/page__header.css";
+@import "../blocks/page/__main/page__main.css";
+@import "../blocks/page/__footer/page__footer.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__el/header__el.css";
@@ -45,6 +47,7 @@
 @import "../blocks/place/__description/place__description.css";
 
 @import "../blocks/outro/outro.css";
+@import "../blocks/outro/__link/outro__link.css";
 @import "../blocks/outro/__header/outro__header.css";
 @import "../blocks/outro/__subheader/outro__subheader.css";
 

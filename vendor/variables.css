@@ -10,6 +10,7 @@
 
   --bg-dark-grey: #2A2C2F;
   --bg-overlay: rgba(42, 44, 47, .3);
+  --bg-overlay-hovered: rgba(42, 44, 47, .8);
 
   /*Margins*/
   --margin-bottom-small: 56px;

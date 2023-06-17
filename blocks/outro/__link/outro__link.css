@@ -1,0 +1,16 @@
+.outro__link {
+  width: inherit;
+  min-height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-overlay);
+  color: var(--text-main-white);
+  text-decoration: none;
+  transition: background-color 0.3s linear;
+}
+
+.outro__link:hover {
+  background-color: var(--bg-overlay-hovered);
+}
