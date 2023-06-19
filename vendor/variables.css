@@ -16,4 +16,8 @@
   --margin-bottom-small: 56px;
   --margin-bottom-normal: 80px;
   --margin-bottom-large: 92px;
+
+  --margin-bottom-768-large: 88px;
+
+  --margin-bottom-320-large: 64px;
 }

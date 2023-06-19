@@ -1,3 +1,15 @@
 .main__el {
   margin-bottom: var(--margin-bottom-large);
 }
+
+@media screen and (max-width: 768px){
+  .main__el {
+    margin-bottom: var(--margin-bottom-768-large);
+  }
+}
+
+@media screen and (max-width: 320px){
+  .main__el {
+    margin-bottom: var(--margin-bottom-320-large);
+  }
+}
