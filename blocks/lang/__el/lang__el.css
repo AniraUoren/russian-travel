@@ -16,3 +16,11 @@
   cursor: pointer;
   opacity: .5;
 }
+
+@media screen and (max-width: 320px){
+  .lang__el {
+    margin-top: 0;
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
