@@ -11,3 +11,12 @@
   letter-spacing: 2px;
   color: var(--text-url-grey);
 }
+
+@media screen and (max-width: 320px){
+  .place__url {
+    padding: 0;
+    margin: 0 16px;
+    margin-bottom: 12px;
+    align-self: auto;
+  }
+}

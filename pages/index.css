@@ -8,7 +8,6 @@
 @import "../blocks/page/__footer/page__footer.css";
 
 @import "../blocks/header/header.css";
-@import "../blocks/header/__el/header__el.css";
 
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__image/logo__image.css";
@@ -16,10 +15,6 @@
 @import "../blocks/lang/lang.css";
 @import "../blocks/lang/__el/lang__el.css";
 @import "../blocks/lang/__el/_active/lang__el_active.css";
-
-@import "../blocks/main/main.css";
-@import "../blocks/main/__el/main__el.css";
-@import "../blocks/main/__el/_margin/main__el_margin_left.css";
 
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__header/lead__header.css";
@@ -60,3 +55,8 @@
 @import "../blocks/navigation/__link/navigation__link.css";
 
 @import "../blocks/author/author.css";
+
+@import "../blocks/main/main.css";
+@import "../blocks/main/__el/main__el.css";
+@import "../blocks/main/__el/_margin/main__el_margin_left.css";
+@import "../blocks/main/__el/_margin/main__el_margin_left-mini.css";

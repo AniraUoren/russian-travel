@@ -1,3 +1,12 @@
 .places__el {
+  margin: 0 48px;
+}
 
+@media screen and (max-width: 768px){
+  .places__el {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
 }

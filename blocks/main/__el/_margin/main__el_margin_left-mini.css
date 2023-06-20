@@ -1,0 +1,15 @@
+.main__el_margin_left-mini {
+  margin-left: 48px;
+}
+
+@media screen and (max-width: 768px){
+  .main__el_margin_left-mini {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .main__el_margin_left-mini {
+    margin-left: 16px;
+  }
+}
