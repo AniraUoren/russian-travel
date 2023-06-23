@@ -9,4 +9,7 @@
 }
 
 @media screen and (max-width: 320px){
+  .places__el {
+    margin: 0;
+  }
 }
