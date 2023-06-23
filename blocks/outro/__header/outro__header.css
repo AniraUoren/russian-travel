@@ -9,7 +9,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 623px){
   .outro__header {
     max-width: 255px;
     margin-bottom: 16px;

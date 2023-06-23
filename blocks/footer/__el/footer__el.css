@@ -12,6 +12,5 @@
 @media screen and (max-width: 320px){
   .footer__el {
     margin: 0 16px;
-    width: 100%;
   }
 }

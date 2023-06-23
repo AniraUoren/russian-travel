@@ -1,12 +1,13 @@
 .author {
   padding: 0;
+  width: 100%;
   font-size: 14px;
   font-weight: var(--font-weight-normal);
   line-height: 16px;
   text-align: end;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 623px){
   .author {
     text-align: start;
   }

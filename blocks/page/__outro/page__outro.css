@@ -1,0 +1,9 @@
+.page__outro {
+  margin: 0 48px;
+}
+
+@media screen and (max-width: 1024px){
+  .page__outro {
+    margin: 0;
+  }
+}

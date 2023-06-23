@@ -19,7 +19,7 @@
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 623px){
   .outro {
     min-height: 200px;
   }
