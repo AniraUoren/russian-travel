@@ -1,8 +1,26 @@
 .outro {
   padding: 0;
-  max-width: 1184px;
+  max-width: 100%;
   min-height: 740px;
   width: 100%;
   background: url("../../images/na-sobanyah__background.jpg") center/cover;
+  box-sizing: border-box;
+}
 
+@media screen and (max-width: 1024px){
+  .outro {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .outro {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .outro {
+    min-height: 200px;
+  }
 }
