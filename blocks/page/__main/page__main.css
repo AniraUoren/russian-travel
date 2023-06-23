@@ -1,0 +1,9 @@
+.page__main {
+  margin-bottom: var(--margin-bottom-large);
+}
+
+@media screen and (max-width: 320px){
+  .page__main {
+    margin-bottom: 64px;
+  }
+}

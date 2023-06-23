@@ -5,3 +5,9 @@
   line-height: 16px;
   text-align: end;
 }
+
+@media screen and (max-width: 320px){
+  .author {
+    text-align: start;
+  }
+}

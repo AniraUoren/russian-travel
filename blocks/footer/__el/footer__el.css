@@ -2,3 +2,16 @@
   margin: 0 48px;
   width: 50%;
 }
+
+@media screen and (max-width: 768px){
+  .footer__el {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .footer__el {
+    margin: 0 16px;
+    width: 100%;
+  }
+}
