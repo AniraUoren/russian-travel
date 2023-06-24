@@ -1,7 +1,7 @@
 .lead__subheader {
   padding: 0;
   margin: 0;
-  margin-bottom: 64px;
+  margin-bottom: 59px;
   max-width: 620px;
   font-size: 30px;
   font-weight: var(--font-weight-normal);
@@ -11,13 +11,13 @@
 
 @media screen and (max-width: 1024px){
   .lead__subheader {
-    margin-bottom: 56px;
+    margin-bottom: 51px;
   }
 }
 
 @media screen and (max-width: 768px){
   .lead__subheader {
-    margin-bottom: 56px;
+    margin-bottom: 51px;
   }
 }
 

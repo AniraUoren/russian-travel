@@ -9,6 +9,12 @@
   }
 }
 
+@media screen and (max-width: 768px){
+  .page__header {
+    margin-bottom: 40px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .page__header {
     margin-top: 16px;

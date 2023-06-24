@@ -1,0 +1,28 @@
+.page__intro {
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-bottom: var(--margin-bottom-large);
+}
+
+@media screen and (max-width: 1024px){
+  .page__intro {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .page__intro {
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: var(--margin-bottom-768-large);
+  }
+}
+
+@media screen and (max-width: 320px){
+  .page__intro {
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: var(--margin-bottom-320-large);
+  }
+}

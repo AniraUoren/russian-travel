@@ -6,3 +6,9 @@
   align-items: start;
   align-self: start;
 }
+
+@media screen and (max-width: 768px){
+  .intro {
+    max-width: 100%;
+  }
+}

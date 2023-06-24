@@ -6,6 +6,7 @@
 @import "../blocks/page/__header/page__header.css";
 @import "../blocks/page/__main/page__main.css";
 @import "../blocks/page/__lead/page__lead.css";
+@import "../blocks/page/__intro/page__intro.css";
 @import "../blocks/page/__places/page__places.css";
 @import "../blocks/page/__outro/page__outro.css";
 @import "../blocks/page/__footer/page__footer.css";
@@ -22,12 +23,14 @@
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__header/lead__header.css";
 @import "../blocks/lead/__subheader/lead__subheader.css";
+@import "../blocks/lead/__figure/lead__figure.css";
 @import "../blocks/lead/__image/lead__image.css";
 @import "../blocks/lead/__image-description/lead__image-description.css";
 
 @import "../blocks/intro/intro.css";
 @import "../blocks/intro/__header/intro__header.css";
 @import "../blocks/intro/__description/intro__description.css";
+@import "../blocks/intro/__statistics-list/intro__statistics-list.css";
 @import "../blocks/intro/__statistics/intro__statistics.css";
 @import "../blocks/intro/__statistics-metric/intro__statistics-metric.css";
 
@@ -35,7 +38,7 @@
 @import "../blocks/photo-gallery/__image/photo-gallery__image.css";
 
 @import "../blocks/places/places.css";
-@import "../blocks/places/__el/places__el.css";
+@import "../blocks/places/__list/places__list.css";
 
 @import "../blocks/place/place.css";
 @import "../blocks/place/__header/place__header.css";
@@ -51,13 +54,11 @@
 
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__el/footer__el.css";
-
-@import "../blocks/navigation/navigation.css";
-@import "../blocks/navigation/__list/navigation__list.css";
-@import "../blocks/navigation/__el/navigation__el.css";
-@import "../blocks/navigation/__link/navigation__link.css";
-
-@import "../blocks/author/author.css";
+@import "../blocks/footer/__navigation/footer__navigation.css";
+@import "../blocks/footer/__navigation-list/footer__navigation-list.css";
+@import "../blocks/footer/__navigation-el/footer__navigation-el.css";
+@import "../blocks/footer/__navigation-link/footer__navigation-link.css";
+@import "../blocks/footer/__author/footer__author.css";
 
 @import "../blocks/main/main.css";
 @import "../blocks/main/__el/main__el.css";

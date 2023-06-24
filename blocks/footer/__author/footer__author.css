@@ -1,14 +1,21 @@
-.author {
+.footer__author {
   padding: 0;
-  width: 100%;
+  margin: 0 48px;
+  width: 50%;
   font-size: 14px;
   font-weight: var(--font-weight-normal);
   line-height: 16px;
   text-align: end;
 }
+@media screen and (max-width: 768px){
+  .footer__author {
+    margin: 0 24px;
+  }
+}
 
 @media screen and (max-width: 623px){
-  .author {
+  .footer__author {
+    width: 100%;
     text-align: start;
     margin: 0;
     padding: 0 16px;
