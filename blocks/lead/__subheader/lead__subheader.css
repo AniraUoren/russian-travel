@@ -15,12 +15,6 @@
   }
 }
 
-@media screen and (max-width: 768px){
-  .lead__subheader {
-    margin-bottom: 51px;
-  }
-}
-
 @media screen and (max-width: 692px){
   .lead__subheader {
     max-width: 288px;
