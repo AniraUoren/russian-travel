@@ -1,6 +1,6 @@
 .outro__link {
   width: inherit;
-  min-height: inherit;
+  min-height: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
