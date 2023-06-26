@@ -6,6 +6,11 @@
   flex-direction: column;
   align-items: center;
   font-family: var(--font-family);
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
   color: var(--text-main-white);
   background-color: var(--bg-dark-grey);
 }
