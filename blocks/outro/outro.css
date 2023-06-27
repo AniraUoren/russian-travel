@@ -2,8 +2,6 @@
   padding: 0;
   max-width: 1184px;
   width: 100%;
-  background: url("../../images/na-sobanyah__background.jpg") center/cover;
-  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px){

@@ -7,6 +7,7 @@
   font-weight: var(--font-weight-black);
   line-height: 76px;
   text-align: center;
+  z-index: 2;
 }
 
 @media screen and (max-width: 623px){

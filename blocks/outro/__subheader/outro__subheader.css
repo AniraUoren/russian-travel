@@ -6,6 +6,7 @@
   font-weight: var(--font-weight-normal);
   line-height: 22px;
   text-align: center;
+  z-index: 2;
 }
 @media screen and (max-width: 623px){
   .outro__subheader {
