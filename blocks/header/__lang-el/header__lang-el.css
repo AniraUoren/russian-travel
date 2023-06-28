@@ -1,4 +1,4 @@
-.lang__el {
+.header__lang-el {
   padding: 0;
   margin: 0;
   margin-left: 18px;
@@ -9,15 +9,16 @@
   font-size: 24px;
   font-weight: var(--font-weight-normal);
   line-height: 28px;
+  text-decoration: none;
 }
 
-.lang__el:hover {
+.header__lang-el:hover {
   cursor: pointer;
   opacity: .5;
 }
 
 @media screen and (max-width: 320px){
-  .lang__el {
+  .header__lang-el {
     margin-top: 0;
     font-size: 18px;
     line-height: 20px;

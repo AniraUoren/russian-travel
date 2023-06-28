@@ -17,9 +17,9 @@
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/__image/logo__image.css";
 
-@import "../blocks/lang/lang.css";
-@import "../blocks/lang/__el/lang__el.css";
-@import "../blocks/lang/__el/_active/lang__el_active.css";
+@import "../blocks/header/__lang/header__lang.css";
+@import "../blocks/header/__lang-el/header__lang-el.css";
+@import "../blocks/header/__lang-el/_active/lang__el_active.css";
 
 @import "../blocks/main/main.css";
 

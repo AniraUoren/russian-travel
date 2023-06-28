@@ -1,8 +1,8 @@
-.lang__el_active {
+.header__lang-el_active {
   text-decoration: underline;
 }
 
-.lang__el_active:hover {
+.header__lang-el_active:hover {
   cursor: default;
   opacity: 1;
 }
