@@ -1,5 +1,6 @@
 .page__lead {
   margin: 0 148px;
+  margin-bottom: var(--margin-bottom-large);
 }
 
 @media screen and (max-width: 1024px){
@@ -8,8 +9,21 @@
   }
 }
 
+@media screen and (max-width: 1024px){
+  .page__lead {
+    margin-bottom: var(--margin-bottom-large);
+  }
+}
+
 @media screen and (max-width: 768px){
   .page__lead {
     margin: 0;
+    margin-bottom: var(--margin-bottom-768-large);
+  }
+}
+
+@media screen and (max-width: 320px){
+  .page__lead {
+    margin-bottom: var(--margin-bottom-320-large);
   }
 }

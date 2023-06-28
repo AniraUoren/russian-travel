@@ -7,6 +7,7 @@
 @import "../blocks/page/__main/page__main.css";
 @import "../blocks/page/__lead/page__lead.css";
 @import "../blocks/page/__intro/page__intro.css";
+@import "../blocks/page/__photo-gallery/page__photo-gallery.css";
 @import "../blocks/page/__places/page__places.css";
 @import "../blocks/page/__outro/page__outro.css";
 @import "../blocks/page/__footer/page__footer.css";
@@ -19,6 +20,8 @@
 @import "../blocks/lang/lang.css";
 @import "../blocks/lang/__el/lang__el.css";
 @import "../blocks/lang/__el/_active/lang__el_active.css";
+
+@import "../blocks/main/main.css";
 
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__header/lead__header.css";
@@ -59,8 +62,3 @@
 @import "../blocks/footer/__navigation-el/footer__navigation-el.css";
 @import "../blocks/footer/__navigation-link/footer__navigation-link.css";
 @import "../blocks/footer/__author/footer__author.css";
-
-@import "../blocks/main/main.css";
-@import "../blocks/main/__el/main__el.css";
-@import "../blocks/main/__el/_margin/main__el_margin_left.css";
-@import "../blocks/main/__el/_margin/main__el_margin_left-mini.css";
