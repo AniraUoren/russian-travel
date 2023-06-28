@@ -3,21 +3,3 @@
   max-width: 1184px;
   width: 100%;
 }
-
-@media screen and (max-width: 1024px){
-  .outro {
-    min-height: 640px;
-  }
-}
-
-@media screen and (max-width: 768px){
-  .outro {
-    min-height: 480px;
-  }
-}
-
-@media screen and (max-width: 623px){
-  .outro {
-    min-height: 200px;
-  }
-}

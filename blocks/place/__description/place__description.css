@@ -9,8 +9,13 @@
 
 @media screen and (max-width: 768px){
   .place__description {
+    margin-bottom: 25px;
     font-size: 16px;
     line-height: 26px;
+  }
+
+  .place__description:last-of-type {
+    margin-bottom: 0;
   }
 }
 
