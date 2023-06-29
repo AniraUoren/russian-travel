@@ -7,6 +7,10 @@
   line-height: 29px;
 }
 
+.place__description:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 768px){
   .place__description {
     margin-bottom: 25px;
