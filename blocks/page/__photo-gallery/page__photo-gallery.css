@@ -15,7 +15,7 @@
   .page__photo-gallery {
     margin-left: 8px;
     margin-right: 8px;
-    margin-bottom: var(--margin-bottom-768-large);
+    margin-bottom: var(--margin-bottom-large);
   }
 }
 

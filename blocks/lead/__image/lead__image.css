@@ -4,6 +4,8 @@
   margin-bottom: 8px;
   max-width: 984px;
   width: 100%;
+  object-position: center;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,6 +23,7 @@
 
 @media screen and (max-width: 623px) {
   .lead__image {
+    margin-bottom: 4px;
     min-height: 200px;
   }
 }

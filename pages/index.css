@@ -19,7 +19,7 @@
 
 @import "../blocks/header/__lang/header__lang.css";
 @import "../blocks/header/__lang-el/header__lang-el.css";
-@import "../blocks/header/__lang-el/_active/lang__el_active.css";
+@import "../blocks/header/__lang-el/_active/header__lang-el_active.css";
 
 @import "../blocks/main/main.css";
 
